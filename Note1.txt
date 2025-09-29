@@ -1,0 +1,53 @@
+
+
+1. How does the team currently approach infrastructure scaling for the microservices architecture?
+2. Is there a preference between Terraform and CloudFormation, or is the choice left to the team?
+3. Are there specific AWS services that the team plans to incorporate more heavily in the future?
+4. Could you elaborate on the CI/CD pipeline structure currently in place?
+5. Are there any challenges in maintaining version control across microservices?
+6. How does the team handle incident response and post-incident reviews?
+7. Are there specific tools or practices used for stress testing and load balancing?
+8. How does the team encourage cross-functional collaboration between DevOps, QA, and development?
+9. What does success look like for this role in the first 3–6 months?
+10. Are there specific projects or objectives that are immediate priorities?
+11. How is the impact of DevOps/SRE practices measured within the organization?
+12. How does the team handle knowledge sharing and onboarding for new tools or practices?
+13. Besides Datadog, are there other monitoring or observability tools used within the stack?
+14. What are the biggest challenges the team is currently facing in implementing or maintaining DevOps practices?
+15. How does the DevOps/SRE team contribute to the company's long-term technology strategy?
+16. Are there specific initiatives aimed at improving system reliability or developer productivity?
+17. Are team members encouraged to explore and implement emerging DevOps practices?
+
+
+“How can I make the biggest impact in my first 90 days?”
+
+“What are the major challenges or obstacles currently facing the team/business, from your perspective?”
+
+“What is the team culture like?”
+
+“What is your favorite aspect of working for XYZ?”
+
+“What type of mentorship opportunities are available?”
+
+Few more things I always like to know:
+
+“What’s the current on-call load and how many off-hours incidents are happening within the last few months?”
+
+“Is there a budget for additional education, trainings, or attending conferences?”
+
+“In a typical week, how many hours are spent in meetings?”
+
+
+Managed and maintained large critical clusters of Cassandra, and Elasticsearch supporting high-transaction environments.
+Tuned databases to optimize throughput, read/write latencies, and overall performance.
+Monitored cluster availability and performance metrics to identify and mitigate issues proactively, ensuring adherence to SLOs.
+Implemented disaster recovery strategies, including backups and recovery techniques to minimize downtime.
+Built systems to automate database build and maintenance tasks using Python and Ansible.
+Developed self-service tools to empower engineers to manage and provision resources following best practices.
+Collaborated with development teams to design optimal data models and enhance database performance.
+Scaled and monitored Elasticsearch and Cassandra clusters to accommodate traffic growth and improve reliability.
+Improved system performance and reduced latency by implementing advanced tuning techniques.
+Streamlined database management processes through automation, reducing manual intervention by X%.
+Played a critical role in scaling databases to support traffic growth of X% over Y months.
+
+Distributed Systems: Cassandra, Elasticsearch.

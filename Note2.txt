@@ -1,0 +1,54 @@
+I have over 15 years of experience as a Data Engineer, Software Engineer, and DevOps professional, with a strong foundation in backend application development and data architecture. For the past five years, I’ve specialized in DevOps, leveraging tools like AWS CDK, Terraform, and CI/CD pipelines to automate and optimize infrastructure and application delivery.
+
+I have extensive experience building and managing data pipelines, often using tools like Spark and Airflow, and integrating them with AWS services such as RDS, S3, and Lambda. My technical expertise includes programming in Python, Java, and Node.js, and I’m skilled at designing RESTful APIs and working with SQL databases.
+
+In my current role as a Senior DevOps Engineer, I was responsible for driving technical decisions backed by research, mentoring team members through code reviews and architecture discussions, and working cross-functionally with stakeholders to address business needs. I also focused on performance monitoring, logging, and alerting to ensure production support readiness.
+
+I thrive in agile environments and am familiar with GitHub workflows for CI/CD, enabling iterative delivery of reliable software. Additionally, I have hands-on experience with modern application development practices, including serverless architectures and containerization.
+
+What excites me about this opportunity is the focus on financial data systems and pipelines, as I have experience working with structured finance datasets and understand the unique challenges and opportunities in this domain. I enjoy solving complex problems, learning emerging technologies, and contributing to a collaborative, high-performing team environment."
+
+
+
+
+I’ve gained significant experience in my current role, but I’m seeking new challenges that will allow me to grow professionally, expand my skill set, and take on more responsibilities.
+
+I built a scalable data pipeline to process structured financial data using AWS services like S3, RDS, and Lambda. I collaborated with stakeholders to gather requirements, chose the appropriate tech stack, and ensured the architecture was optimized for performance and scalability. The project was delivered on time and is now handling millions of records daily.
+
+
+
+
+1. How does the team currently approach infrastructure scaling for the microservices architecture?
+2. Is there a preference between Terraform and CloudFormation, or is the choice left to the team?
+3. Are there specific AWS services that the team plans to incorporate more heavily in the future?
+4. Could you elaborate on the CI/CD pipeline structure currently in place?
+5. Are there any challenges in maintaining version control across microservices?
+6. How does the team handle incident response and post-incident reviews?
+7. Are there specific tools or practices used for stress testing and load balancing?
+8. How does the team encourage cross-functional collaboration between DevOps, QA, and development?
+9. What does success look like for this role in the first 3–6 months?
+10. Are there specific projects or objectives that are immediate priorities?
+11. How is the impact of DevOps/SRE practices measured within the organization?
+12. How does the team handle knowledge sharing and onboarding for new tools or practices?
+13. Besides Datadog, are there other monitoring or observability tools used within the stack?
+14. What are the biggest challenges the team is currently facing in implementing or maintaining DevOps practices?
+15. How does the DevOps/SRE team contribute to the company's long-term technology strategy?
+16. Are there specific initiatives aimed at improving system reliability or developer productivity?
+17. Are team members encouraged to explore and implement emerging DevOps practices?
+
+Can you share more about the day-to-day responsibilities of this role? How would you describe the pace of a typical day?
+If I were hired for this role, what would you want me to achieve in my first two months?
+What mechanisms are in place for performance reviews and when would I receive my first formal evaluation?
+In your opinion, what is the single most important indicator of success in this role?
+
+Questions About the Company or Interviewer
+This is a good opportunity to get a sense of company culture and how the company is performing.
+
+How would you describe the management style of the organization?
+Could you describe the typical collaboration process within the team?
+What's something that makes you happy about coming to work each day?
+How long have you been at the company?
+Can you talk about company culture?
+What is the greatest challenge facing the company?
+What are the company's goals for the upcoming year?
+
